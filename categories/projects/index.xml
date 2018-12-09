@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Dubmassacre</title>
-    <link>https://dubmassacre.github.io/categories/projects/index.xml</link>
+    <link>https://dubmassacre.github.io/categories/projects/</link>
     <description>Recent content in Projects on Dubmassacre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <atom:link href="https://dubmassacre.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://dubmassacre.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Projects</title>
