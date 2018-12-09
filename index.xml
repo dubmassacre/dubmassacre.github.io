@@ -21,17 +21,12 @@
     </item>
     
     <item>
-      <title>xxxGetting Started with Hugo</title>
+      <title>D</title>
       <link>https://dubmassacre.github.io/blog/test2/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://dubmassacre.github.io/blog/test2/</guid>
-      <description>Step 1. Install Hugodfsdfsdfsd Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Once you&amp;rsquo;ve gotten here, follow along the rest of this page on your local build.</description>
+      <description></description>
     </item>
     
   </channel>
